@@ -1,0 +1,16 @@
+{
+  "source_log": "hand_shadows_v05.json",
+  "privacy": "Absolute/generated/session paths, reference images and runtime outputs omitted. Prompt prose preserved.",
+  "requests": [
+    {
+      "id": "HAND_BECKON_V05",
+      "prompt": "Use case: illustration-story. Generate one isolated solid black human hand shadow silhouette for a monochrome music video. Reference image: use ONLY the hand silhouette inside the LEFT original-PV panel for gesture and composition; ignore all typography, interface and the right panel. A feminine HUMAN right hand and forearm enters diagonally from the lower right; wrist in lower right, hand across upper center, thumb curves to lower left, four graceful fingers curl downward toward the left in a beckoning come-here gesture. The silhouette should clearly read as a natural human hand with anatomically coherent fingers, like a shadow puppet photographed from the side. Broad curved outline with fluid fingers, no polygonal jagged edges. Pure opaque black shape; no gray shading, no white interior lines. Isolated on a genuinely transparent background, 8 percent empty transparent margin around the whole silhouette; forearm ends cleanly on the lower edge. No text, borders, panels, decorations or other objects. Keep the reference gesture and its left-pointing direction.",
+      "transparent_background": true
+    },
+    {
+      "id": "HAND_DOG_V05",
+      "prompt": "Use case: illustration-story. Generate one isolated solid black silhouette of TWO HUMAN HANDS forming a dog shadow puppet for a monochrome music video. Reference image: use ONLY the silhouette in the LEFT original-PV panel for the gesture; ignore all typography, interface and right panel. Two overlapping anatomically coherent human hands: extended horizontal fingers point LEFT to form a long dog muzzle; two raised thumbs/fingers on the upper right create the upright pointed ears; one lower finger forms the lower jaw. Two wrists/forearms enter from lower right. It must visibly remain a believable human hand shadow puppet, not a drawing of an actual dog head and not a robotic angular icon. Broad flowing clean silhouette, naturally rounded joints, readable muzzle and two ears. Pure opaque solid black, no gray shading, no white interior linework or eye. Truly transparent background, generous transparent margin, entire puppet in frame. No text, borders, panels, decorations or extra objects. Match the leftward muzzle direction and basic visual proportions of the reference.",
+      "transparent_background": true
+    }
+  ]
+}

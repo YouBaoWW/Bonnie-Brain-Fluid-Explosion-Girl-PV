@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>邦妮 · 毒苹果的推理过载 / V11 源码演示</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' fill='%230a0a0a'/%3E%3Ctext x='20' y='28' fill='%23f4f2ec' text-anchor='middle' font-size='25'%3EB%3C/text%3E%3C/svg%3E">
+<style>
+*{box-sizing:border-box}body{margin:0;background:#171717;color:#eee;font:14px "Microsoft YaHei",sans-serif}main{max-width:1600px;margin:auto;padding:22px 24px 40px}header{display:flex;justify-content:space-between;gap:20px;align-items:baseline;margin-bottom:18px}h1{font-size:17px;font-weight:500;margin:0}header span,.status{font-size:12px;color:#aaa}canvas{display:block;width:100%;height:auto;background:#f4f2ec;box-shadow:0 12px 50px #0005}nav{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 15px}button{cursor:pointer;background:#242424;color:#ddd;border:1px solid #555;padding:10px 14px;font:inherit}button[aria-pressed=true]{background:#f4f2ec;color:#0a0a0a;border-color:#f4f2ec}input{display:block;width:100%;accent-color:#ddd;margin:12px 0}label{display:flex;justify-content:space-between;gap:12px;font-size:12px;color:#aaa}.status{line-height:1.8;margin:13px 0 0}body.export main{padding:0;max-width:none}body.export header,body.export nav,body.export input,body.export label,body.export .status{display:none}body.export canvas{width:1920px;height:1080px;box-shadow:none}
+</style>
+</head>
+<body><main>
+<header><h1>邦妮 / 毒苹果的推理过载 · V11 源码演示（非成片）</h1><span>TYPE / TOKYO / EVIDENCE · 1920 × 1080 · 60 fps</span></header>
+<canvas id="film" width="1920" height="1080" aria-label="邦妮PV关键帧"></canvas>
+<nav id="shots" aria-label="全片章节"></nav>
+<nav id="clips" aria-label="全片与选段播放"></nav>
+<label for="time"><span id="cue">载入角色与歌词…</span><output id="time-label"></output></label>
+<input id="time" type="range" min="0" max="191.5833333333" step="0.0166666667" value="0">
+<p class="status" id="status">开源演示：原曲、原歌词和全部角色图片未分发；当前为程序化占位图形。角色立绘与剪影、聊天屏、手影与调查道具；统一纸面文字与镜头投影，连续背景运动、短像素步行及档案长镜头。1920×1080 / 60fps，上下黑边与中文字幕。时码取用户LRC，句内逐字为视觉估计。</p>
+</main><script type="module" src="./preview-full-v11.js"></script></body></html>

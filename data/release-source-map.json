@@ -1,0 +1,207 @@
+{
+  "production_version": "V11",
+  "production_source_fingerprint": "f2b77634be6f58330fe543d8fdebbff08a7a06237523d83d1e1298deaa20e0ff",
+  "note": "Publication derivatives; not a byte-identical media reproduction. Production input files were only read.",
+  "files": [
+    {
+      "source_file": "renderer/cinematic-v11.js",
+      "source_sha256": "2aa8e02b7d71230d3b8d08db8cf8325b06c60057c80f1a086b59a55b3e490894",
+      "release_file": "src/renderer/cinematic-v11.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/full-v11.html",
+      "source_sha256": "aab4daa6f93d8181f64d38aca8cb703482f2f4f03652567af05ffb256db06591",
+      "release_file": "src/renderer/full-v11.html",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/full-v11.js",
+      "source_sha256": "afbd918c141c04c8de460bd7355967716a6126ade4ace4ade81180732f000994",
+      "release_file": "src/renderer/full-v11.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "optional font and procedural placeholders"
+      ]
+    },
+    {
+      "source_file": "renderer/perspective-v02.js",
+      "source_sha256": "ef1d3e04e8d2cf0a566e36a408ac15591d142a85180a6ead245a8dec883b3096",
+      "release_file": "src/renderer/perspective-v02.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/preview-full-v11.js",
+      "source_sha256": "cf596d23c68e7df90d46a36c640e4ba891821f2dc7f87d466056bef9f9b4c1fe",
+      "release_file": "src/renderer/preview-full-v11.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/props-v11.js",
+      "source_sha256": "068a1393dcd51232272329765a947d09ea9e40cc6237c1434b4a9d9904ec5041",
+      "release_file": "src/renderer/props-v11.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/timing.js",
+      "source_sha256": "b82cef24bec3b968a302f8987f9ec054913d0fe684162dbcbe108a0d4cae2ed9",
+      "release_file": "src/renderer/timing.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-characters.js",
+      "source_sha256": "27a5219f0a9c0313167ba092093fe5afd05350ded6c270d739ace4aec06d43c0",
+      "release_file": "src/renderer/v11-characters.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-chorus-fixes.js",
+      "source_sha256": "200ea93717117f577db6a6acddf099ac5c8d8739435684ea3307716379b5e1a7",
+      "release_file": "src/renderer/v11-chorus-fixes.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-document-perspective-fixes.js",
+      "source_sha256": "a4b3f1d736097755fc4bcaa533c40194a829fd730409700e3d7f8f55e8565a7c",
+      "release_file": "src/renderer/v11-document-perspective-fixes.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-documents.js",
+      "source_sha256": "ab2de70ee48688c6d626e312b36ea11fe9296317fb070166fc2d43b6901cdb1a",
+      "release_file": "src/renderer/v11-documents.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-early.js",
+      "source_sha256": "2dd2d409bd21bedf7cba2ad34297178cfcfa9d68269afd81b654efa2f0ad31a8",
+      "release_file": "src/renderer/v11-early.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-finish-fixes.js",
+      "source_sha256": "eabc6be19d4d10e6a2786013c19293c75f8e28b99b99b0a3a5c4906625b7f750",
+      "release_file": "src/renderer/v11-finish-fixes.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-fonts.js",
+      "source_sha256": "4d5530891a5d2081360f031e65bc55a5306291d7e3a5a93e52b8fb962564e90b",
+      "release_file": "src/renderer/v11-fonts.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-intro-fixes.js",
+      "source_sha256": "b0d5371e1a7b57c0b8d6951e2f413bf793e32e1e49cedf003ceea5a64f0df851",
+      "release_file": "src/renderer/v11-intro-fixes.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-late.js",
+      "source_sha256": "16fe6734f3ec0c2788391542dd0a7a104450311a16d08802b0298a930efa79a6",
+      "release_file": "src/renderer/v11-late.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-paper-fixes.js",
+      "source_sha256": "f6d463dd50db41eb98d8dae991846b5f074612d0a02efc8980c1409c73a4b0c7",
+      "release_file": "src/renderer/v11-paper-fixes.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-portrait-fixes.js",
+      "source_sha256": "ea1a171fbe4b8321de64a32bf35059f26979322c3d676cc3c878808a67f22f6c",
+      "release_file": "src/renderer/v11-portrait-fixes.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-shared.js",
+      "source_sha256": "f017312c799c3afc7177bcf8a0b63cb31b366589f998129644032e13235261b9",
+      "release_file": "src/renderer/v11-shared.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    },
+    {
+      "source_file": "renderer/v11-spatial.js",
+      "source_sha256": "84c8138797bcf5415530e249f1326d3c8197ed8a8d19a465427b792b05ce96d1",
+      "release_file": "src/renderer/v11-spatial.js",
+      "adaptations": [
+        "portable data/assets/media URLs",
+        "original lyric strings replaced by authored demo text",
+        "runtime composition logic retained"
+      ]
+    }
+  ]
+}

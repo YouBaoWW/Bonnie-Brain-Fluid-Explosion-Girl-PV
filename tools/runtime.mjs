@@ -1,0 +1,4 @@
+import fs from 'node:fs';import path from 'node:path';import {createRequire} from 'node:module';
+export function browserPath(){if(process.env.BONNIE_CHROME)return process.env.BONNIE_CHROME;const candidates=process.platform==='win32'?[path.join(process.env.ProgramFiles||'','Google/Chrome/Application/chrome.exe'),path.join(process.env['ProgramFiles(x86)']||'','Microsoft/Edge/Application/msedge.exe')]:process.platform==='darwin'?['/Applications/Google Chrome.app/Contents/MacOS/Google Chrome']:['/usr/bin/google-chrome','/usr/bin/chromium','/usr/bin/chromium-browser'];return candidates.find(p=>fs.existsSync(p))}
+export function playwright(){return createRequire(import.meta.url)(process.env.BONNIE_PLAYWRIGHT_MODULE||'playwright-core')}
+export async function openBrowser(){const{chromium}=playwright();return chromium.launch({headless:true,...(browserPath()?{executablePath:browserPath()}:{}),args:['--disable-accelerated-2d-canvas','--disable-background-timer-throttling']})}

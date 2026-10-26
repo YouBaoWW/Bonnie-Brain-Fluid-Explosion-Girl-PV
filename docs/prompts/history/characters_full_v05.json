@@ -1,0 +1,26 @@
+{
+  "source_log": "characters_full_v05.json",
+  "privacy": "Absolute/generated/session paths, reference images and runtime outputs omitted. Prompt prose preserved.",
+  "requests": [
+    {
+      "id": "BONNIE_FULL_A10",
+      "prompt": "Use case: identity-preserve. Edit target: the attached existing Bonnie character artwork. Create a completed full-body transparent cutout for an animated music video. Preserve her face, identity, beret with braid and star design, bob haircut and side ponytail, detective/gothic layered outfit, all existing gesture details: magnifying glass held over her left eye, same cheerful expression and exact hand gesture. Outpaint below the crop into coherent complete clothing, legs and shoes so the camera can travel vertically. Keep the drawing as crisp black and white manga line art and halftones, maintaining the reference silhouette and proportions. The ONLY colored area is her long necktie: saturated rose pink #ed558b, with its existing black outlines and white flower details preserved. Everything else, including skin, hair, apple and magnifier where present, remains monochrome. Full figure from top of hat to bottoms of both shoes, 6 percent transparent margin all around. Background truly transparent. No text, panels, labels, borders, extra props or extra characters. Do not crop hands, sleeves or feet. Keep the original character style and upper-body pose.",
+      "transparent_background": true
+    },
+    {
+      "id": "BONNIE_FULL_A11",
+      "prompt": "Use case: identity-preserve. Edit target: the attached existing Bonnie character artwork. Create a completed full-body transparent cutout for an animated music video. Preserve her face, identity, beret with braid and star design, bob haircut and side ponytail, detective/gothic layered outfit, all existing gesture details: holding the bitten apple near her cheek, same playful expression and exact hand gesture. Outpaint below the crop into coherent complete clothing, legs and shoes so the camera can travel vertically. Keep the drawing as crisp black and white manga line art and halftones, maintaining the reference silhouette and proportions. The ONLY colored area is her long necktie: saturated rose pink #ed558b, with its existing black outlines and white flower details preserved. Everything else, including skin, hair, apple and magnifier where present, remains monochrome. Full figure from top of hat to bottoms of both shoes, 6 percent transparent margin all around. Background truly transparent. No text, panels, labels, borders, extra props or extra characters. Do not crop hands, sleeves or feet. Keep the original character style and upper-body pose.",
+      "transparent_background": true
+    },
+    {
+      "id": "BONNIE_FULL_A13",
+      "prompt": "Use case: identity-preserve. Edit target: the attached existing Bonnie character artwork. Create a completed full-body transparent cutout for an animated music video. Preserve her face, identity, beret with braid and star design, bob haircut and side ponytail, detective/gothic layered outfit, all existing gesture details: both gloved hands at her temples with surprised excited expression, same pose and hands. Outpaint below the crop into coherent complete clothing, legs and shoes so the camera can travel vertically. Keep the drawing as crisp black and white manga line art and halftones, maintaining the reference silhouette and proportions. The ONLY colored area is her long necktie: saturated rose pink #ed558b, with its existing black outlines and white flower details preserved. Everything else, including skin, hair, apple and magnifier where present, remains monochrome. Full figure from top of hat to bottoms of both shoes, 6 percent transparent margin all around. Background truly transparent. No text, panels, labels, borders, extra props or extra characters. Do not crop hands, sleeves or feet. Keep the original character style and upper-body pose.",
+      "transparent_background": true
+    },
+    {
+      "id": "FANNY_FULL_V05",
+      "prompt": "Use case: identity-preserve. Edit target image 1 is the existing full-body monochrome Fanny artwork. Supporting reference image 2 shows her official red necktie color. Keep every shape, face, hair, hat, hand gesture, outfit detail and full-body pose of image 1 unchanged. Change ONLY the long necktie to the original vivid coral-red shade #ef3f57 from reference image 2. All other areas remain crisp black and white manga drawing with existing halftones. Remove the plain white background to genuine transparency; preserve all white clothing, skin and inner white regions as opaque. Complete cutout with full hat, both shoes and all fingers within the frame, no text, no borders, no added props. Preserve the original proportions and detailed linework.",
+      "transparent_background": true
+    }
+  ]
+}

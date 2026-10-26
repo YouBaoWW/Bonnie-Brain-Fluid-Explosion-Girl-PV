@@ -1,0 +1,373 @@
+{
+  "schema_version": 1,
+  "release": "Bonnie Brain Fluid Explosion Girl V11 — source and prompts",
+  "created_utc": "2026-10-25T14:06:22.454700+00:00",
+  "contents": "Source publication derivatives, prompt history, portable demo tools, documentation and the new cover.",
+  "not_included": [
+    "production project directory",
+    "videos and audio",
+    "character and reference images",
+    "original complete lyrics",
+    "fonts",
+    "frames and review evidence",
+    "caches and dependencies",
+    "private local paths"
+  ],
+  "demo_limit": "The portable preview uses authored placeholder text, synthetic rhythm and procedural assets; it is not the final production PV.",
+  "production_source_fingerprint": "f2b77634be6f58330fe543d8fdebbff08a7a06237523d83d1e1298deaa20e0ff",
+  "reference_layout": "https://github.com/YouBaoWW/NancyLu-world-execute-pv",
+  "cover": {
+    "file": "docs/images/cover.png",
+    "sha256": "d31448d99d079a7b784293cdb1730e2b65177666b42242bc5551aab2e6c757e6",
+    "generation_mode": "built-in ImageGen",
+    "prompt": "docs/prompts/05_COVER.md"
+  },
+  "file_count_excluding_manifest": 68,
+  "manifest_hash_scope": "All publication files except RELEASE_MANIFEST.json itself. The archive SHA256 is delivered separately.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 389,
+      "sha256": "2e13ce8200ca2c24aeeb7f4f74e04665fc0bedf03b22f0cb60fc1fefe81b0dd3"
+    },
+    {
+      "path": "assets/README.md",
+      "bytes": 608,
+      "sha256": "039bdce509598d6930e0e9bf355d99400bca43212cd248090beb5feefa8f07df"
+    },
+    {
+      "path": "assets/required-assets.json",
+      "bytes": 17189,
+      "sha256": "4a0f779113c0e346fa9231b47f0ca95b82d67f59f089b44eb1cc823fde41a5b4"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 409,
+      "sha256": "17fdfd500d425831bf86915835559e8faa6d212dc5aa6ee44b52aee0f383a509"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 324,
+      "sha256": "2184de69c9b98d8efc012c96ccc847b9ad8a7848ae34627b6e16a89e1d7f0c8f"
+    },
+    {
+      "path": "data/audio_features.json",
+      "bytes": 271321,
+      "sha256": "2b87e9d6c0696cd80c0d6cd989def23e82d3d7eb97cf1a1de130d50265f74d1f"
+    },
+    {
+      "path": "data/expression_beats_v11.json",
+      "bytes": 17550,
+      "sha256": "85d43063577cb18c1b05e04b7a187ee6ef0a77d832140e33c0a00e64eebba7f3"
+    },
+    {
+      "path": "data/final_glyph_pacing_v11.json",
+      "bytes": 37325,
+      "sha256": "0d1ef728e9974b43d8918659ad7b7fc9287a41a1a97359e9ace9a4febed7c4ab"
+    },
+    {
+      "path": "data/lyrics/lyrics_cues.json",
+      "bytes": 31803,
+      "sha256": "25881aeb4a0791abb51d68f4428fa3a4a863f5b169e9388eb2bb196cf6d85998"
+    },
+    {
+      "path": "data/lyrics/lyrics_display_v11.json",
+      "bytes": 14560,
+      "sha256": "42e55b96be7d21c43a8a33d091fdd2ce06976f568038c615a2c0660d4da27395"
+    },
+    {
+      "path": "data/lyrics/lyrics_zh_v11.json",
+      "bytes": 12790,
+      "sha256": "bb1b185732c58ab530614636614a6ee815349338761bc2e51bc9b10b8d513207"
+    },
+    {
+      "path": "data/release-source-map.json",
+      "bytes": 8348,
+      "sha256": "2688ca89d93461db0e8c214b73585a0f291896096711100dc5ec005ce3ddfeaf"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 1137,
+      "sha256": "c3ec8b375151b570afc618e551e433a9eb18c312c319e89aced33734dd74007b"
+    },
+    {
+      "path": "docs/ASSET_POLICY.md",
+      "bytes": 815,
+      "sha256": "2203aa437f7b01979b3a1e3f61395f034e7cadc81a107574fe3b6163a1b8345f"
+    },
+    {
+      "path": "docs/images/cover.png",
+      "bytes": 2467919,
+      "sha256": "d31448d99d079a7b784293cdb1730e2b65177666b42242bc5551aab2e6c757e6"
+    },
+    {
+      "path": "docs/licenses/YujiSyuku-OFL.txt",
+      "bytes": 4480,
+      "sha256": "e4ae161232a4fbc8c482504e49e382bc6b6f198f425fa8a197fa2deb34660428"
+    },
+    {
+      "path": "docs/OPEN_SOURCE_RELEASE.md",
+      "bytes": 857,
+      "sha256": "6692a17c01cd16a4cb8d93424ef76502fe403a797bba68f1efc7c8d8abacd6b6"
+    },
+    {
+      "path": "docs/prompts/01_CHARACTER_ASSETS.md",
+      "bytes": 875,
+      "sha256": "ddf253ca82cf861c824817331c75ba21741d62f03929a45dfae21001483c8027"
+    },
+    {
+      "path": "docs/prompts/02_STORYBOARD_AND_TYPE.md",
+      "bytes": 877,
+      "sha256": "1a0a75e6e56363fe32b98cc4ea6aecfa5c5abf9e268e2aca72bb780634285bdd"
+    },
+    {
+      "path": "docs/prompts/03_CAMERA_AND_TIMING.md",
+      "bytes": 928,
+      "sha256": "ae9c6bc13f1368428a47384a29e4d0376172521d057284626cc8349ab2121ca4"
+    },
+    {
+      "path": "docs/prompts/04_REVIEW_AND_EXPORT.md",
+      "bytes": 924,
+      "sha256": "efa335d4dc3ef58bea197c117f720feb55693de4b61d78d7e725ee6eaf4347ea"
+    },
+    {
+      "path": "docs/prompts/05_COVER.md",
+      "bytes": 3250,
+      "sha256": "4b5c62134e6fda32c8bd174709dca35cb8df2d4414233c76c980e196f2a9bf2f"
+    },
+    {
+      "path": "docs/prompts/history/bonnie_magnifier_v06.json",
+      "bytes": 1232,
+      "sha256": "d49ae9496c8996d12edf59ca22592feeab194010401c8a1ed77fa88a1935e538"
+    },
+    {
+      "path": "docs/prompts/history/characters_full_v05.json",
+      "bytes": 4864,
+      "sha256": "5c20a03e240100b71f49680ae0f47d85eb20039256703eba1799bcdff2754278"
+    },
+    {
+      "path": "docs/prompts/history/characters_v06.json",
+      "bytes": 2411,
+      "sha256": "fe3669f3225d9d382f72b0478d1cfbd641272c7ddfa1f42c1317fe893a66fbe0"
+    },
+    {
+      "path": "docs/prompts/history/hand_shadows_v05.json",
+      "bytes": 2556,
+      "sha256": "a5fa9e3fda376f40370f4c7b1a9b772a42ec154365e5fa17ad6dc34c2607e868"
+    },
+    {
+      "path": "docs/prompts/history/index.json",
+      "bytes": 926,
+      "sha256": "0e5be89100c2b095a2907a11bee8a0d048e1279207e41e332e4e140c357ada0d"
+    },
+    {
+      "path": "docs/prompts/history/intro_v10.json",
+      "bytes": 5474,
+      "sha256": "83711519317aebac249f6c657f22bfef4dc36bce1d9dd436bfb381604ca5c70c"
+    },
+    {
+      "path": "docs/prompts/history/props_v06.json",
+      "bytes": 6774,
+      "sha256": "7f6df818b2570aead40556cbf30d748d8b63a6a5402c7f6914c184ee70b3b813"
+    },
+    {
+      "path": "docs/prompts/history/README.md",
+      "bytes": 682,
+      "sha256": "ff6296cb985a0dead4c5c63ba414f27c5d4388230533350ab6d9b3ecbb089dae"
+    },
+    {
+      "path": "docs/prompts/history/swimsuit_v05.json",
+      "bytes": 1426,
+      "sha256": "f26906e0432a4061f2a569393ddbdf01b46fbeb96da14010b28941b14b6cd49e"
+    },
+    {
+      "path": "docs/prompts/MASTER_PROMPT.md",
+      "bytes": 1433,
+      "sha256": "2d6979a6c35c50ad0a821db7e7288e1a48bbaebba7f30a02a021bf1c01babb68"
+    },
+    {
+      "path": "docs/prompts/PROMPT_GUIDE.md",
+      "bytes": 657,
+      "sha256": "bb26ee1a05dba23004c886d5522578587d3de78224c7a2d3c1c72780b144da7c"
+    },
+    {
+      "path": "docs/THIRD_PARTY_NOTICES.md",
+      "bytes": 1119,
+      "sha256": "cc9e9f37e144f6270be4cb06e93a53807ceb5e27e55221b6a979956df2f466a5"
+    },
+    {
+      "path": "docs/USAGE.md",
+      "bytes": 1610,
+      "sha256": "e3b5c4044fcd2d799d8946e5a1b693499bed3866f95bd91bd097a18075957750"
+    },
+    {
+      "path": "export/wsframes.mjs",
+      "bytes": 4116,
+      "sha256": "724b1e424a3ec3466646628b2ce20db298e4dd5d952e330206a2c0e2a00449d4"
+    },
+    {
+      "path": "export/WSFRAMES_LICENSE.txt",
+      "bytes": 1088,
+      "sha256": "a0fe073b037dc0e625783a83793aa156754f585c19e0a217791f030302b06125"
+    },
+    {
+      "path": "index.html",
+      "bytes": 467,
+      "sha256": "fe20164a9406995596e4de35b08adcabf2529615a32652f83a69417a65ec3ff5"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1100,
+      "sha256": "523f38741bceee0ed14ef3ec9f2927e2767d0ee83769863bd64ebe2aa365e007"
+    },
+    {
+      "path": "media/README.md",
+      "bytes": 282,
+      "sha256": "93bbf4057dacf98dc714f57e75684d1893c4d323239a3ad7c5b7aad32f5ad24b"
+    },
+    {
+      "path": "package.json",
+      "bytes": 506,
+      "sha256": "6704e7a995350e206c0d7c428bccc69f1f3c2f4130ce3ca600fa45cbf6df494b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3997,
+      "sha256": "0d9dac4e54b300c91bedde4d8406c9d3489df626e40ee61e012bd21c81aea793"
+    },
+    {
+      "path": "src/renderer/cinematic-v11.js",
+      "bytes": 154187,
+      "sha256": "770de03c982e18ce8c2e03f766339d4640e772dcf37b13c6d550e8c14388ada8"
+    },
+    {
+      "path": "src/renderer/full-v11.html",
+      "bytes": 2618,
+      "sha256": "6e94e62c7a83298bd59e0522b37f8a996d29790f2f7e896cc623793372c0c954"
+    },
+    {
+      "path": "src/renderer/full-v11.js",
+      "bytes": 36115,
+      "sha256": "5a4cea424a7908f3e4e411556d9cc9272ae9ecb4fd515b759f1ac7ab9ce6916b"
+    },
+    {
+      "path": "src/renderer/perspective-v02.js",
+      "bytes": 5872,
+      "sha256": "4409481f1488d4710e490b885b41d2d8820f33b294da0f5dc091ba7ebe69fdef"
+    },
+    {
+      "path": "src/renderer/portable-demo.js",
+      "bytes": 633,
+      "sha256": "2d24816d416a1838310ec193e79295dac9708200122b0dbf7712f94895b1995e"
+    },
+    {
+      "path": "src/renderer/preview-full-v11.js",
+      "bytes": 3710,
+      "sha256": "2ddc371df086c2c49ff0e2858fca73e5ca8c190120c002ffb43de8b4084cc871"
+    },
+    {
+      "path": "src/renderer/props-v11.js",
+      "bytes": 63248,
+      "sha256": "9cbb69561481089e50083aedb1db2ba8682dc215af90ae71ca137142132cf07e"
+    },
+    {
+      "path": "src/renderer/timing.js",
+      "bytes": 1630,
+      "sha256": "b571e2e8231d1bf80118fe67b00943562287911a757c0c21d889bbc46378a55f"
+    },
+    {
+      "path": "src/renderer/v11-characters.js",
+      "bytes": 14680,
+      "sha256": "4e619f4fe3277deff08b10ea88864915700dcfe3089e48120d647d9a33b4425b"
+    },
+    {
+      "path": "src/renderer/v11-chorus-fixes.js",
+      "bytes": 7401,
+      "sha256": "d33faec58242271881a34ba67b6c0418f3f3c9c393d5bc10df56e174f6601a2c"
+    },
+    {
+      "path": "src/renderer/v11-document-perspective-fixes.js",
+      "bytes": 10692,
+      "sha256": "83a704e2d84cae22852d0e77f3119162898cc736ae802ab31dd598accc2e7a3f"
+    },
+    {
+      "path": "src/renderer/v11-documents.js",
+      "bytes": 30350,
+      "sha256": "27af8edf5465d642cc9161ebfa94cf0392983a65e053aac5e969ad59fbcfc737"
+    },
+    {
+      "path": "src/renderer/v11-early.js",
+      "bytes": 22309,
+      "sha256": "e116ea4c11282d45ee33326957fc53de187dbd60b1345deaa3f7b4fa44cc81d6"
+    },
+    {
+      "path": "src/renderer/v11-finish-fixes.js",
+      "bytes": 5986,
+      "sha256": "66e738ea624187af15941104e387dcf285a3c2a9514f52dc24407241081da5f6"
+    },
+    {
+      "path": "src/renderer/v11-fonts.js",
+      "bytes": 1442,
+      "sha256": "f2c4d54b83f9ea05bf6c9955f98ef18f3fc321aa58d922284976dba5e52340d4"
+    },
+    {
+      "path": "src/renderer/v11-intro-fixes.js",
+      "bytes": 5780,
+      "sha256": "c25f8c352c8749ff5d58cf4812197b4e5d03f984beeb53c44f4642e4c3b8c851"
+    },
+    {
+      "path": "src/renderer/v11-late.js",
+      "bytes": 28960,
+      "sha256": "28dfa0dce7fb6bfa43e2f1b27846a842f1418f9c0606a2aed629fcf2ddbc31b5"
+    },
+    {
+      "path": "src/renderer/v11-paper-fixes.js",
+      "bytes": 8566,
+      "sha256": "c1fdacf194bbec937f9a7db0692b5909e50d7cb3605c86e41e3a2ceee5a74fff"
+    },
+    {
+      "path": "src/renderer/v11-portrait-fixes.js",
+      "bytes": 7786,
+      "sha256": "1c5273903d0868074283e90c1407938d748ffd6f0914bc000aaf4d788d8e6961"
+    },
+    {
+      "path": "src/renderer/v11-shared.js",
+      "bytes": 4451,
+      "sha256": "7c0db639cf6d93f948e22cd7ccc3c6a72723d3b32dac17ae3ec978dd702386c2"
+    },
+    {
+      "path": "src/renderer/v11-spatial.js",
+      "bytes": 12537,
+      "sha256": "b5af194d347f977a4a79d276132ac8b3c21eb60352fb2a09ee9fd27698541f44"
+    },
+    {
+      "path": "tests/portable.test.mjs",
+      "bytes": 1606,
+      "sha256": "a6d48fa139b6f290433af61d6801bf1620ab2407fdce534c87d1b9356ad58d38"
+    },
+    {
+      "path": "tools/doctor.mjs",
+      "bytes": 1100,
+      "sha256": "43ee77bbf13eb3640c32531e05db8dea89f409c8116a26b31cc178a291de65f7"
+    },
+    {
+      "path": "tools/render.mjs",
+      "bytes": 2010,
+      "sha256": "6c10c583577f2db873bd6f2480328d626825869fb65824a0420a6c9d824d6caf"
+    },
+    {
+      "path": "tools/runtime.mjs",
+      "bytes": 984,
+      "sha256": "d158b45fee7349c224b09f9dcf6c27c46220545d1976cb44527fea1c8b6260ae"
+    },
+    {
+      "path": "tools/serve.mjs",
+      "bytes": 1501,
+      "sha256": "520a1a4da4ff3b803a74cbc21a828dbb97783cd6f713d5456018109e05fa6ef1"
+    }
+  ],
+  "publication_prepared_utc": "2026-10-26T00:10:49.468526+00:00",
+  "repository": "https://github.com/YouBaoWW/Bonnie-Brain-Fluid-Explosion-Girl-PV",
+  "source_archive_sha256": "ea5904c9b71172f7bdb5fdeade9c04f7eb88b7a5276466006e594626f930d386",
+  "publication_changes": "README and publication checklist wording updated; production renderer source and cover unchanged."
+}

@@ -1,0 +1,14 @@
+{
+  "source_log": "characters_v06.json",
+  "privacy": "Absolute/generated/session paths, reference images and runtime outputs omitted. Prompt prose preserved.",
+  "requests": [
+    {
+      "file": "Bonnie_phone_silhouette_v06.png",
+      "prompt": "Use case: identity-preserve. Asset type: transparent full-body black silhouette for a monochrome music video. Edit the supplied Bonnie character reference. Preserve her exact recognizable cap, short side ponytail hairstyle, dress/coattail outline, boots, and body proportions. Replace the magnifying glass with a clearly identifiable open flip mobile phone held up beside her face, her bent arm extending the phone away from her torso so the phone outline is visible. Convert the entire character into pure solid black silhouette without facial or garment interior details, except keep her necktie its original bright pink, with pink only on that tie. Phone has a clear two-part clamshell silhouette and a small transparent negative-space screen opening. Full head and feet in frame, generous margin, no cropping. Background must be genuinely transparent alpha, no floor, no shadow, no gray glow, no text, no border, no watermark. Match the character's identity and original pose balance; this is an animation cutout."
+    },
+    {
+      "file": "Fanny_back_magnifier_v06.png",
+      "prompt": "Use case: identity-preserve. Asset type: transparent character cutout for a monochrome music-video animation. Use the supplied Fanny character as identity and costume reference. Draw this exact character in a NEW BACK VIEW pose, standing with her back toward the camera, head and shoulders turned very slightly to the left, her recognizable long side ponytail and beret/cap, long open coat, pleated skirt, tall socks and shoes preserved. Her right arm holds a large classic round magnifying glass up beside her shoulder, clearly outside her body outline, circular glass with genuinely transparent center. Entire figure head to shoes visible with margin. Clean black and white ink manga illustration, crisp outer silhouette; clothes and hair monochrome. Preserve red only on her original necktie if a small part is naturally visible at the side, no other colors. No front-facing face; back-view silhouette must read immediately. Background genuinely transparent alpha, no gray backdrop, no glow, no shadow, no text, no border, no watermark."
+    }
+  ]
+}

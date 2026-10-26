@@ -1,0 +1,11 @@
+{
+  "source_log": "bonnie_magnifier_v06.json",
+  "privacy": "Absolute/generated/session paths, reference images and runtime outputs omitted. Prompt prose preserved.",
+  "requests": [
+    {
+      "file": "02_ASSETS/character_v06/Bonnie_magnifier_silhouette_v06.png",
+      "prompt": "Use case: identity-preserve. Edit target: supplied Bonnie full-body character, for an animation silhouette. Preserve exact cap, short side ponytail, ornate dress/coattail outer contour, body proportions and boots. Make her entire body a pure solid BLACK silhouette, with only the necktie kept bright PINK. Change the pose of her raised arm so she holds a classic circular magnifying glass OUT TO THE SIDE, well clear of her face and shoulder; there must be visible negative space separating its circular ring from her hair/hat. The magnifier's glass center is a transparent hole and the handle is black. Her other hand rests near waist, no other held props. Full body head-to-feet, safe margin. Genuinely transparent alpha background, no gray glow, no shadow, no checkerboard, no text. No white facial or clothing detail. Clear expressive cutout silhouette for a monochrome music video.",
+      "transparent_background": true
+    }
+  ]
+}

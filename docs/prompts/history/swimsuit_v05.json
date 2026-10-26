@@ -1,0 +1,11 @@
+{
+  "source_log": "swimsuit_v05.json",
+  "privacy": "Absolute/generated/session paths, reference images and runtime outputs omitted. Prompt prose preserved.",
+  "requests": [
+    {
+      "id": "SWIMSUIT_V05",
+      "prompt": "Use case: illustration-story. Asset: an EMPTY Japanese school-style one-piece swimming suit as an isolated garment prop for a black-and-white kinetic music video. Supporting reference screenshot shows only the desired garment type and high-contrast visual language; ignore its typography, ink splashes, video UI and crop. Draw the entire EMPTY swimsuit from both shoulder straps to the two leg openings, front-facing and symmetrical, with a gently rounded neckline, wide shoulder straps, and realistic inward waist curves. A clean large WHITE rectangular cloth name tag is centered on the chest. The white tag must be completely BLANK with no writing, numbers or marks; it will carry animated lettering later. The swimsuit is opaque matte BLACK, with a few very fine white contour/seam lines to make it read as fabric, while retaining a clear graphic silhouette. High contrast crisp manga/cel ink look, no photographic texture. No person, body, mannequin, hanger, skin, face or anatomy. Truly transparent background, entire garment centered upright with 10 percent transparent margin. No text, no border, no background, no extra objects.",
+      "transparent_background": true
+    }
+  ]
+}

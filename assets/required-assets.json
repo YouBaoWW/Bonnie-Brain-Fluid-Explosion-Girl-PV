@@ -1,0 +1,392 @@
+{
+  "schema_version": 1,
+  "runtime_asset_count": 55,
+  "included_runtime_rasters": 0,
+  "items": [
+    {
+      "id": "BONNIE_TOWER_SEATED_V10",
+      "path": "assets/intro_v10/Bonnie_tower_seated_silhouette_v10.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_TOSS_HAT_V10",
+      "path": "assets/intro_v10/Bonnie_toss_hat_v10.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_MAG_V06",
+      "path": "assets/character_v06/Bonnie_magnifier_silhouette_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "MACARON_TRIPLE_V06",
+      "path": "assets/props_v06/macaron_triple_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "INK_SPLASH_V06",
+      "path": "assets/props_v06/ink_splash_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "COFFEE_V06",
+      "path": "assets/props_v06/coffee_cup_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "SUGAR_V06",
+      "path": "assets/props_v06/sugar_cube_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "ROPE_V06",
+      "path": "assets/props_v06/hemp_rope_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "PILLOW_V06",
+      "path": "assets/props_v06/pillow_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_PHONE_V06",
+      "path": "assets/character_v06/Bonnie_phone_silhouette_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "FANNY_BACK_MAG_V06",
+      "path": "assets/character_v06/Fanny_back_magnifier_v06.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "PROFILE_ICON_V06",
+      "path": "assets/portraits_v06/profile_121_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "A01",
+      "path": "assets/A_character/A01_turnaround_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "A10",
+      "path": "assets/A_character/A10_magnifier_v02.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "A11",
+      "path": "assets/A_character/A11_apple_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "A13",
+      "path": "assets/A_character/A13_overload_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "A14",
+      "path": "assets/A_character/A14_openarms_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "SIL03",
+      "path": "assets/SIL_silhouette/SIL03_profile_right_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "FANNY",
+      "path": "assets/A_character/F01_fanny_monochrome_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "FANNY_PROFILE",
+      "path": "assets/SIL_silhouette/SIL_Fanny_profile_left_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "CITY_TOKYO",
+      "path": "assets/background_v03/BG_Tokyo_Tower_v03.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "CITY_GOTANDA",
+      "path": "assets/background_v04/BG_Gotanda_v04.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "NEWSPAPER_ICON",
+      "path": "assets/props_v03/bonnie_newspaper_icon_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "NEWSPAPER_ICON_I",
+      "path": "assets/props_v03/bonnie_newspaper_icon_I_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "NEWSPAPER_ICON_II",
+      "path": "assets/props_v03/bonnie_newspaper_icon_II_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "NEWSPAPER_ICON_III",
+      "path": "assets/props_v03/bonnie_newspaper_icon_III_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "CHIBI_MIRROR",
+      "path": "assets/props_v03/bonnie_mirror_chibi_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "CHIBI_UNIMPRESSED",
+      "path": "assets/props_v03/bonnie_unimpressed_chibi_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "CHIBI_QUESTION",
+      "path": "assets/props_v03/bonnie_question_chibi_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "HARAKIRI_RELIC",
+      "path": "assets/props_v03/investigation_scope_hd_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "HARAKIRI_KNIFE",
+      "path": "assets/props_v03/harakiri_knife_hd_v01.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_FULL_A10",
+      "path": "assets/character_v05/Bonnie_full_A10_tie_v05.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_FULL_A11",
+      "path": "assets/character_v05/Bonnie_full_A11_tie_v05.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_FULL_A13",
+      "path": "assets/character_v05/Bonnie_full_A13_tie_v05.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "FANNY_FULL_V05",
+      "path": "assets/character_v05/Fanny_full_tie_v05.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "INTERVIEW_AVATAR",
+      "path": "assets/portraits_v05/interview_avatar_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "DOCUMENT_PICTURE_01",
+      "path": "assets/document_images_v05/document_picture_01_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "DOCUMENT_ICON_02",
+      "path": "assets/document_images_v05/document_icon_02_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "PROFILE_ICON_01_USER",
+      "path": "assets/portraits_v05/profile_icon_01_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "PIXEL_CHARACTER_01",
+      "path": "assets/pixel_characters_v05/pixel_character_01_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "PIXEL_CHARACTER_02",
+      "path": "assets/pixel_characters_v05/pixel_character_02_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_EXPRESSION_01",
+      "path": "assets/expressions_v05/Bonnie_expression_01_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_EXPRESSION_02",
+      "path": "assets/expressions_v05/Bonnie_expression_02_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_EXPRESSION_03",
+      "path": "assets/expressions_v05/Bonnie_expression_03_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_EXPRESSION_04",
+      "path": "assets/expressions_v05/Bonnie_expression_04_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "BONNIE_EXPRESSION_05",
+      "path": "assets/expressions_v05/Bonnie_expression_05_user.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "WIKI_BONNIE_EMOJI_08",
+      "path": "assets/wiki_v05/bonnie_emoji_08.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "WIKI_FANNY_EMOJI_02",
+      "path": "assets/wiki_v05/fanny_emoji_02.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "WIKI_INVESTIGATION_EVENT",
+      "path": "assets/wiki_v05/investigation_event_12703.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "WIKI_GIFT_PHONE",
+      "path": "assets/wiki_v05/gift_smartphone.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "WIKI_GIFT_DUCK",
+      "path": "assets/wiki_v05/gift_bath_duck.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "WIKI_GIFT_TEDDY",
+      "path": "assets/wiki_v05/gift_teddy.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "HAND_BECKON_V05",
+      "path": "assets/props_v05/hand_beckon_v05.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "HAND_DOG_V05",
+      "path": "assets/props_v05/hand_dog_v05.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    },
+    {
+      "id": "SWIMSUIT_V05",
+      "path": "assets/props_v05/school_swimsuit_v05.png",
+      "included": false,
+      "required_for_original_visuals": true,
+      "rights": "External character/user/generated material; acquire your own lawful copy or generate an original replacement."
+    }
+  ]
+}

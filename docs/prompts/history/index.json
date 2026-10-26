@@ -1,0 +1,35 @@
+{
+  "actual_historical_logs": [
+    {
+      "source_log": "characters_full_v05",
+      "prompt_count": 4
+    },
+    {
+      "source_log": "hand_shadows_v05",
+      "prompt_count": 2
+    },
+    {
+      "source_log": "swimsuit_v05",
+      "prompt_count": 1
+    },
+    {
+      "source_log": "bonnie_magnifier_v06",
+      "prompt_count": 1
+    },
+    {
+      "source_log": "characters_v06",
+      "prompt_count": 2
+    },
+    {
+      "source_log": "props_v06",
+      "prompt_count": 6
+    },
+    {
+      "source_log": "intro_v10",
+      "prompt_count": 3
+    }
+  ],
+  "v11_new_imagegen_calls": 0,
+  "note": "V11 inherited all runtime images. intro_v10 records V10 history; mechanically cloned intro_v11 is deliberately excluded.",
+  "record_count_note": "prompt_count counts retained prompt records, not one tool call per image; only intro_v10 explicitly records three actual invocation IDs."
+}

@@ -1,0 +1,19 @@
+{
+  "name": "bonnie-brain-fluid-explosion-girl-source",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Source, prompts and deterministic Canvas composition study; media excluded",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "doctor": "node tools/doctor.mjs",
+    "render": "node tools/render.mjs",
+    "test": "node tests/portable.test.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "1.62.1"
+  }
+}

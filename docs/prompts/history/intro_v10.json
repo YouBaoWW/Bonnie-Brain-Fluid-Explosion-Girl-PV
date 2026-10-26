@@ -1,0 +1,30 @@
+{
+  "source_log": "intro_v10.json",
+  "privacy": "Absolute/generated/session paths, reference images and runtime outputs omitted. Prompt prose preserved.",
+  "requests": [
+    {
+      "id": "BONNIE_TOWER_SEATED_V10",
+      "file": "02_ASSETS/intro_v10/Bonnie_tower_seated_v10.png",
+      "prompt": "Use case: compositing / illustration-story. Asset type: transparent foreground illustration for an existing 1920x1080 music video. Input image 1 is a REFERENCE for character identity, costume and Tokyo Tower setting, NOT an edit target to preserve composition. Create a newly drawn pose and viewpoint: Bonnie from the reference is SITTING sideways on a high steel cross-beam near the upper lattice of Tokyo Tower, her hips visibly resting on the beam, both knees bent and boots dangling naturally, ankles loosely crossed. Three-quarter side view from slightly below, NOT the reference standing pose/high viewpoint. She has white twin-tail hair, pink eyes, a confident playful smile, white detective cape and frilled outfit with cross details, black shoes, and a pink necktie bearing visible black five-petal plum blossom motifs. Her head is bare: NO HAT anywhere in this asset. One arm extends outward and slightly upward, fingers just opening after tossing her hat; her other hand rests on the beam for a plausible seated balance. Keep both hands anatomically clear and fully clothed design faithful to identity. Wind lifts cape edges and ponytails gently. Include only Bonnie plus the short upper Tokyo Tower cross-beam/lattice supporting her; crop the tower lattice naturally along the bottom. No skyline, no sky, no buildings beyond this support, no typography. New graceful seated silhouette, legible face, distinctive composition. Art style must integrate with a black-and-white manga PV: crisp black ink outlines, white paper highlights, selective black fills, restrained fine halftone/crosshatch; pink ONLY in eyes and floral necktie. Tower is monochrome black/white engraved lattice, not orange. Full figure visible with clear hair/cape/boot edges, generous transparent margin, wide landscape canvas. Genuinely transparent alpha background, not a white rectangle or checkerboard. Do not copy the reference shot or standing body pose. Do not draw any hat or floating duplicate character.",
+      "transparent_background": true,
+      "invocation": 1,
+      "status": "superseded"
+    },
+    {
+      "id": "BONNIE_TOSS_HAT_V10",
+      "file": "02_ASSETS/intro_v10/Bonnie_toss_hat_v10.png",
+      "prompt": "Use case: precise-object-edit / compositing. Asset type: a SINGLE isolated transparent hat prop for a black-and-white manga music video. Reference image1 shows Bonnie and her thrown hat at left. Redraw ONLY that detached character hat, preserving its recognizable structured dark peaked beret shape, short curved visor, pale laurel/ornamental insignia on the side, band and long pink geometric fabric ribbons. Do NOT draw the girl, her face, head, hands, Tokyo Tower or any background. Show one hat in a dynamic three-quarter airborne tilt with its open underside partially facing the viewer, brim curving toward lower left, trailing ribbon behind it. One single complete prop, centered with ample transparent space around every ribbon tip, no duplicate views. Match crisp black ink outlines, white paper highlights, fine restrained manga halftone and crosshatching of the seated Bonnie illustration. Use black, white and gray for the hat, pink only for the attached geometric ribbons. No blue, no gold, no typography, no watermark, no motion streaks baked into the illustration. Genuinely transparent alpha background; no white rectangle or checkerboard. Clear cutout edges for later rotation, depth scaling and motion blur in animation.",
+      "transparent_background": true,
+      "invocation": 2,
+      "status": "selected"
+    },
+    {
+      "id": "BONNIE_TOWER_SEATED_V10",
+      "file": "02_ASSETS/intro_v10/Bonnie_tower_seated_silhouette_v10.png",
+      "prompt": "Use case: precise-object-edit. EDIT TARGET is input image1: the seated Bonnie on a Tokyo Tower steel beam, currently colored black/white/pink on transparent alpha. Change ONLY the rendering of Bonnie into a PURE SOLID BLACK SILHOUETTE, keeping the EXACT seated pose, raised arm, two dangling bent legs, boots, hair ponytails, cape outline, body proportions and position. Fill ALL of her face, hair, skin, clothes, cape, hands, legs and shoes solid black with no white eyes or face details or internal clothing highlights. The single exception on the character is her NECKTIE: preserve its bright pink color and clearly draw the same FIVE-PETAL PLUM FLOWERS in BLACK on the pink tie. Keep all the character's outer contours and silhouette holes clean. The steel lattice beam below her must remain the original detailed black-and-gray engraved beam with white highlights, unchanged; do NOT fill the beam solid black. NO HAT, no extra objects, no sky or city, no new text, no repositioning, no crop. Preserve the existing true transparent background and the existing entire framing/aspect ratio, with the same figure and beam placement. This is a narrow style edit of the existing asset, not a new pose or composition. The desired result is a seated black character silhouette with one visible pink floral tie, on the same etched beam, on transparent alpha.",
+      "transparent_background": true,
+      "invocation": 3,
+      "status": "selected"
+    }
+  ]
+}
